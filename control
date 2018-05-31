@@ -1,0 +1,9 @@
+Package: com.neinzedd9.secondsintimex
+Name: SecondsInTimeX
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Adds seconds to the iPhone X clock.
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
